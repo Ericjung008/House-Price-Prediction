@@ -20,11 +20,12 @@ The following steps were taken to complete the project:
 2. Analyzing data
 3. Removing Outliers
 4. Imputing Missing Values
-5. Correcting Data Type
-6. Creating New Features
-7. Encoding
-8. Selecting Best Model
-9. Submitting Result
+5. Transforming Features
+6. Correcting Data Type
+7. Creating New Features
+8. Encoding
+9. Selecting Best Model
+10. Submitting Result
 
 ## Model Selection
 The model was chosen based on the lowest RMSLE score.<br>
