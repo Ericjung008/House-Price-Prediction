@@ -27,7 +27,7 @@ The following steps were taken to complete the project:
 9. Submitting Result
 
 ## Model Selection
-The model was chosen based on the lowest RMSLE score returned.<br>
+The model was chosen based on the lowest RMSLE score.<br>
 **Note:** Ridge Regression, Gradient Boosting Regression, and Extreme Gradient Boosting Regression models were used for the stacking model.<br>
 
 <img width="388" alt="Screen Shot 2020-07-18 at 11 20 07 PM" src="https://user-images.githubusercontent.com/51253177/87868761-38744f00-c94e-11ea-85e6-25b7bd7762aa.png">
