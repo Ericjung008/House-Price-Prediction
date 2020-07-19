@@ -1,5 +1,6 @@
 # House Price Prediction
-This is a project assigned to me during [theDevMasters](https://www.thedevmasters.com) bootcamp. 
+This is a project assigned to me during [theDevMasters](https://www.thedevmasters.com) bootcamp.<br> 
+For more information or to enter the kaggle competition, click [here](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview).
 
 ## Introduction
 Whether a client is looking to buy or sell, he/she would want to avoid overpaying for or underselling his/her house. With machine learning, models are developed
@@ -37,7 +38,7 @@ Programming Language: Python 3.7.4<br>
 Libraries: Numpy, Pandas, Scipy, Matplotlib, Seaborn, Scikit-learn, XGBoost<br>
 
 ## Project Files
-* [README]()
+* [README](https://github.com/Ericjung008/House-Price-Prediction/blob/master/README.md)
 * [Project](https://github.com/Ericjung008/House-Price-Prediction/blob/master/House%20Price.ipynb)
 * [Train Dataset](https://github.com/Ericjung008/House-Price-Prediction/blob/master/train.csv)
 * [Test Dataset](https://github.com/Ericjung008/House-Price-Prediction/blob/master/test.csv)
