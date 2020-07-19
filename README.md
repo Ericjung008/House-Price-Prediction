@@ -43,3 +43,6 @@ Libraries: Numpy, Pandas, Scipy, Matplotlib, Seaborn, Scikit-learn, XGBoost<br>
 * [Train Dataset](https://github.com/Ericjung008/House-Price-Prediction/blob/master/train.csv)
 * [Test Dataset](https://github.com/Ericjung008/House-Price-Prediction/blob/master/test.csv)
 * [Data Dictionary](https://github.com/Ericjung008/House-Price-Prediction/blob/master/data_description.txt)
+
+## Acknowledgments
+The datasets used to complete this project were compiled by Dean De Cock.
