@@ -17,15 +17,15 @@ values are from the actual values.
 ## Approach
 The following steps were taken to complete the project:
 1. Import libraries and datasets
-2. Analyzing data
-3. Removing Outliers
-4. Imputing Missing Values
-5. Transforming Features
-6. Correcting Data Type
-7. Creating New Features
-8. Encoding
-9. Selecting Best Model
-10. Submitting Result
+2. Analyze data
+3. Remove Outliers
+4. Impute Missing Values
+5. Transform Features
+6. Correct Data Type
+7. Create New Features
+8. Encode Categorical Columns
+9. Select Best Model
+10. Submit Result
 
 ## Model Selection
 The model was chosen based on the lowest RMSLE score.<br>
