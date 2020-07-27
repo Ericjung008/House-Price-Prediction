@@ -10,7 +10,7 @@ result, companies that utilize these models receive a higher return on revenue b
 ## Objective
 The objective of the project is to predict house sale price.
 
-## Metrics
+## Metric
 The Root Mean Squared Logarithmic Error (RMSLE) was used as the evaluation metric for this project. The metric score indicates how different the predicted 
 values are from the actual values.
 
